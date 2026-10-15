@@ -6,4 +6,4 @@ draft: false
 
 Welcome to my cartoon collection! Here is a classic character sketch:
 
-{{< cartoon src="mickey-mouse.jpg" alt="Mickey Mouse Sketch" caption="Classic 1930s Edition" >}}
+{{< cartoon src="cartoons/mickey-mouse.jpg" alt="Mickey" caption="Vintage Sketch" >}}
