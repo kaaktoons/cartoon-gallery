@@ -1,4 +1,4 @@
-baseURL = 'https://kaatoons.github.io/'
+baseURL = 'https://kaaktoons.github.io/cartoon-gallery/'
 languageCode = 'en-us'
 title = 'My Cartoon Gallery'
 theme = 'mainroad'

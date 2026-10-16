@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Cartoon Gallery</title>
-    <link>http://localhost:38811/posts/</link>
+    <link>https://kaaktoons.github.io/cartoon-gallery/posts/</link>
     <description>Recent content in Posts on My Cartoon Gallery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:38811/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaaktoons.github.io/cartoon-gallery/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Cartoon Sketch</title>
-      <link>http://localhost:38811/posts/first-sketch/</link>
+      <link>https://kaaktoons.github.io/cartoon-gallery/posts/first-sketch/</link>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38811/posts/first-sketch/</guid>
+      <guid>https://kaaktoons.github.io/cartoon-gallery/posts/first-sketch/</guid>
       <description>Welcome to my cartoon gallery! Here is my first sketch:&#xA;Vintage Sketch</description>
     </item>
   </channel>
