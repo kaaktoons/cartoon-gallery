@@ -1,9 +1,9 @@
 ---
 title: "First Cartoon Sketch"
-date: 2026-10-11
+date: 2026-10-15T00:00:00Z
 draft: false
 ---
 
-Welcome to my cartoon collection! Here is a classic character sketch:
+Welcome to my cartoon gallery! Here is my first sketch:
 
-{{< cartoon src="cartoons/mickey-mouse.jpg" alt="Mickey" caption="Vintage Sketch" >}}
+{{< cartoon src="mickey-mouse.jpg" alt="Mickey Mouse" caption="Vintage Sketch" >}}
